@@ -1,0 +1,5 @@
+{
+  "widget.disqus.label": "Disqus comment widget",
+  "disqus.widget.form.shortname.label": "Short name:",
+  "disqus.widget.form.shortname.helper": "Your site 'Short name', check in disqus."
+}
