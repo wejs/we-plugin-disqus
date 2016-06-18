@@ -1,13 +1,17 @@
 {
   "name": "we-plugin-disqus",
   "description": "We.js disqus plugin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "plugin.js",
   "scripts": {},
   "dependencies": {},
   "repository": "wejs/we-plugin-disqus",
   "author": "Alberto Souza <contato@albertosouza.net>",
   "license": "MIT",
+  "keywords": [
+    "disqus",
+    "wejs-plugin"
+  ],
   "wejs": {
     "dependencies": {
       "we-plugin-view": true
